@@ -1,0 +1,3 @@
+[submodule "people-api"]
+	path = people-api
+	url = git@github.com:devhulk/people-api.git
